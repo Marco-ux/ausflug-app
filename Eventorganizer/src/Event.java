@@ -22,9 +22,5 @@ public abstract class Event {
 	}
 	public void setParticipants(List<Participant> participants) {
 		this.participants = participants;
-	}
-	
-	public static void main(String[] args){
-	}
-	
+	}	
 }
