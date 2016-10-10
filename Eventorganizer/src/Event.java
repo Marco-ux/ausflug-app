@@ -24,6 +24,7 @@ public abstract class Event {
 		this.participants = participants;
 	}
 	
-	
+	public static void main(String[] args){
+	}
 	
 }
